@@ -1,2 +1,1 @@
-Name- Aryaman Singh Kushwaha
-College id- 2019uee1722
+Files to be submitted for Zine robotics and research group interview
